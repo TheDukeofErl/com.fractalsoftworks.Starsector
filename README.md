@@ -22,4 +22,4 @@ be present on your system.
 ## File locations
 
 All user data including save files and mods is stored in
- `~/.var/app/org.fractalsoft.Starsector/data`.
+ `~/.var/app/com.fractalsoftworks.Starsector/data`.

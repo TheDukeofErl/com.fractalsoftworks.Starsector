@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=TriOS
+Icon=com.fractalsoftworks.Starsector
+Exec=/app/startup_trios.sh
+Categories=Game;
+StartupWMClass=Starsector
+Keywords=Starsector
